@@ -1,0 +1,1 @@
+{"version":3,"file":"commonHelpers.js","sources":["../src/main.js"],"sourcesContent":["var pagination = new tui.Pagination('pagination', {\n  totalItems: 500,\n  itemsPerPage: 6,\n  visiblePages: 3,\n});\n"],"names":[],"mappings":"ssBAAiB,IAAI,IAAI,WAAW,aAAc,CAChD,WAAY,IACZ,aAAc,EACd,aAAc,CAChB,CAAC"}
